@@ -16,5 +16,5 @@ pip install -r requirements.txt
 - Executar código:
 
 ```
-python3 main.py
+python3 app.py
 ```
