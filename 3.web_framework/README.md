@@ -18,7 +18,7 @@ Para o post é esperado o json no seguinte formato:
 
 ### Passo a passo
 
-- Instalar biblioteca pandas:
+- Instalar dependencias projeto:
 
 ```
 
