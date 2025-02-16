@@ -5,5 +5,16 @@ Encontre o produto com maior e menor faturamento.`
 
 ### Passo a passo
 
-- Instalar biblioteca pandas
-  ` pip install pandas`
+- Instalar biblioteca pandas:
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+- Executar código:
+
+```
+python3 main.py
+```
