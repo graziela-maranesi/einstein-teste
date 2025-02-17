@@ -27,15 +27,15 @@ if __name__ == '__main__':
 - Esta aceitando espaços em branco a esquerda e a direita
 - Em vez de comparar o valor da senha, poderiamos gerar um hash e fazer a comparação de hash
 - Pode ser feito sanitização para evitar sql injection
--
+
 
 ### Observações
 
-Como não está falando para utilizar um banco de dados, acredito que poderiamos colocar essas credenciais em variaveis de ambiente
+Como a proposta não está falando para utilizar um banco de dados, acredito que poderíamos colocar essas credenciais em variáveis de ambiente.
 
-Eu deixei o ponto env com os valores de username e password, pois já estavam no enunciado.
+Eu deixei o ponto env com os valores de username e password, pois já estavam no enunciado. 
+
 Em um projeto de produção essas variáveis do .env-template não seriam preenchidas.
-
 A solução com correções de segurança se encontra no arquivo app.py.
 
 ### Passo a passo
